@@ -15,6 +15,7 @@
 		D5A93A8B1C8EA83B002C7C1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5A93A891C8EA83B002C7C1B /* LaunchScreen.storyboard */; };
 		D5A93A961C8EA83B002C7C1B /* TK3DTouchDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D5A93A951C8EA83B002C7C1B /* TK3DTouchDemoTests.m */; };
 		D5A93AA11C8EA83B002C7C1B /* TK3DTouchDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D5A93AA01C8EA83B002C7C1B /* TK3DTouchDemoUITests.m */; };
+		D5A93AB01C8EAC6C002C7C1B /* ShowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D5A93AAF1C8EAC6C002C7C1B /* ShowViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		D5A93A9C1C8EA83B002C7C1B /* TK3DTouchDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TK3DTouchDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5A93AA01C8EA83B002C7C1B /* TK3DTouchDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TK3DTouchDemoUITests.m; sourceTree = "<group>"; };
 		D5A93AA21C8EA83B002C7C1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5A93AAE1C8EAC6C002C7C1B /* ShowViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShowViewController.h; sourceTree = "<group>"; };
+		D5A93AAF1C8EAC6C002C7C1B /* ShowViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShowViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				D5A93A7F1C8EA83B002C7C1B /* AppDelegate.m */,
 				D5A93A811C8EA83B002C7C1B /* ViewController.h */,
 				D5A93A821C8EA83B002C7C1B /* ViewController.m */,
+				D5A93AAE1C8EAC6C002C7C1B /* ShowViewController.h */,
+				D5A93AAF1C8EAC6C002C7C1B /* ShowViewController.m */,
 				D5A93A841C8EA83B002C7C1B /* Main.storyboard */,
 				D5A93A871C8EA83B002C7C1B /* Assets.xcassets */,
 				D5A93A891C8EA83B002C7C1B /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				D5A93A831C8EA83B002C7C1B /* ViewController.m in Sources */,
 				D5A93A801C8EA83B002C7C1B /* AppDelegate.m in Sources */,
 				D5A93A7D1C8EA83B002C7C1B /* main.m in Sources */,
+				D5A93AB01C8EAC6C002C7C1B /* ShowViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
